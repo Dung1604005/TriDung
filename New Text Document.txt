@@ -1,1 +1,7 @@
-hello
+Cách đẩy code lên github
+B1: vào github sao chép link 
+B2; vào fork
+B3: Truy cập vào fork trong thư mục máy tính và tạo 
+B4: staged file
+B5 Commit subject
+B6: Push
